@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "product_name": "Blue Denim Shirt",
+    "product_desc": "SHIRT - BLUE",
+    "product_color": "BLUE",
+    "product_size": "M",
+    "product_price": "17.99",
+    "product_image": "https://media.istockphoto.com/id/516359240/photo/bhendi-masala-or-bhindi-masala-ladies-finger-curry-with-chapati.jpg?s=612x612&w=0&k=20&c=0mGnvNM2lxl-dTTJlhAfVJE5WidxYmmvrvNs1NZUKvs=",
+    "product_qty": 1
+  },
+  {
+    "id": 2,
+    "product_name": "Red Hoodie",
+    "product_desc": "HOODIE - RED",
+    "product_color": "RED",
+    "product_size": "M",
+    "product_price": "35.99",
+    "product_image": "https://images.unsplash.com/photo-1604579659931-f42436a8368c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHBpY2tsZXxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "product_qty": 1
+  },
+  {
+    "id": 3,
+    "product_name": "Navy T-Shirt",
+    "product_desc": "T-SHIRT - NAVY",
+    "product_color": "NAVY",
+    "product_size": "M",
+    "product_price": "15.99",
+    "product_image": "https://media.istockphoto.com/id/1214850940/photo/yogurt-is-good-for-health-with-black-background.jpg?s=612x612&w=0&k=20&c=8GqPjqx9ykwamtCXQE_lOfsQRTQE89RxzBz2kcndXEg=",
+    "product_qty": 1
+  },
+
+  {
+    "id": 4,
+    "product_name": "Black Chino Pants",
+    "product_desc": "CHINO PANTS - BLACK",
+    "product_color": "BLACK",
+    "product_size": "M",
+    "product_price": "65.99",
+    "product_image": "https://media.istockphoto.com/id/1054228718/photo/indian-sweets-in-a-plate-includes-gulab-jamun-rasgulla-kaju-katli-morichoor-bundi-laddu.jpg?s=612x612&w=0&k=20&c=hYWCXLaldKvhxdBa83M0RnUij7BCmhf-ywWdvyIXR40=",
+    "product_qty": 1
+  },
+  {
+    "id": 4,
+    "product_name": "Black Chino Pants",
+    "product_desc": "CHINO PANTS - BLACK",
+    "product_color": "BLACK",
+    "product_size": "M",
+    "product_price": "65.99",
+    "product_image": "https://media.istockphoto.com/id/1130228942/photo/indian-dal-traditional-indian-soup-lentils-indian-dhal-spicy-curry-in-bowl-spices-herbs.jpg?s=612x612&w=0&k=20&c=ciPGZR4hkLeUL-nRxY4iAh539zYLgUkNz82GG_nJG5A=",
+    "product_qty": 1
+  },
+  {
+    "id": 4,
+    "product_name": "PANEER- TADKA",
+    "product_desc": "paneer tadka is a famous and popular dish of our restaurent",
+    "product_color": "BLACK",
+    "product_size": "M",
+    "product_price": "65.99",
+    "product_image": "https://media.istockphoto.com/id/1077980738/photo/green-peas-or-matar-paneer-curry-recipe-served-in-a-bowl-selective-focus.jpg?s=612x612&w=0&k=20&c=SShuhVPIWBpUaJXqvdWqjPrh0AqsR6VR68GInZlyw6Y=",
+    "product_qty": 1
+  }
+]
